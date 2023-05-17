@@ -1,4 +1,4 @@
-# Image
+# Images
 
 ![generateBasedOnSelectedUrl](resource/generateBasedOnSelectedUrl.png)
 
