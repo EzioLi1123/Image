@@ -1,7 +1,7 @@
 # Image
 
-![generateBasedOnSelectedUrl](resource\generateBasedOnSelectedUrl.png)
+![generateBasedOnSelectedUrl](resource/generateBasedOnSelectedUrl.png)
 
-![generateBaseOnLocalFile](resource\generateBaseOnLocalFile.png)
+![generateBaseOnLocalFile](resource/generateBaseOnLocalFile.png)
 
-![updateTestcase](resource\updateTestcase.png)
+![updateTestcase](resource/updateTestcase.png)
